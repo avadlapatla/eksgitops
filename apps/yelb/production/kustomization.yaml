@@ -1,4 +1,4 @@
 resources:
-- namespace.yaml
+- pod.yaml
 - ../base
 namespace: production
